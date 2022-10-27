@@ -66,6 +66,11 @@ When the command is executed, a QR code appears, which we will scan with the Wha
   src='https://res.cloudinary.com/dlpb6j88q/image/upload/v1649589295/jagad.dev/posts/how-to-create-a-whatsapp-bot-with-node-js/Qr_code_mkrfyt.png'
 />
 
+Once, installation is done, go to the group chat and send '@team' or '@everyone'.
+
+![WhatsApp Image 2022-10-27 at 11 11 07 AM](https://user-images.githubusercontent.com/72138429/198201158-77d8ec3f-bfdd-4b0b-a308-d294f7be244b.jpeg)
+
+
 **References**: https://github.com/jagadyudha/yugioh-whatsapp-bot, https://wwebjs.dev/guide/
 
 **Credits**: https://github.com/jagadyudha/yugioh-whatsapp-bot
