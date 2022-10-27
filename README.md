@@ -1,4 +1,4 @@
-# tag-all Whats-app bot
+# tag-all whats-app bot
 
 ## Introduction
 
